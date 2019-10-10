@@ -30,8 +30,7 @@ nav li a {
 nav li a:hover {
   background-color: #111;
 }
-img {
+.top_image {
   height: 300px;
   width: 1900px;
-  background-color: powderblue;
 }
