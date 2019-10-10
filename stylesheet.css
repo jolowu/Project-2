@@ -2,7 +2,7 @@ body {
   background-color: #333;
 }
 h1 {
-  color: blue;
+  color: white;
 }
 p {
   color: red;
@@ -33,4 +33,14 @@ nav li a:hover {
 .top_image {
   height: 300px;
   width: 1900px;
+}
+header {
+	text-align: center;
+	width: 100%;
+	height: auto;
+	background-size: cover;
+	background-attachment: fixed;
+	position: relative;
+	overflow: hidden;
+	border-radius: 0 0 85% 85% / 30%;
 }
