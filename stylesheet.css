@@ -31,8 +31,8 @@ nav li a:hover {
   background-color: #111;
 }
 .top_image {
-  height: 300px;
-  width: 1900px;
+  height: auto;
+  width: 100%;
 }
 header {
 	text-align: center;
