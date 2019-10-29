@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,900&display=swap');
+
 body {
   background-color: #333;
 }
@@ -26,10 +28,26 @@ nav li a {
 nav li{
     display:inline;
 }
-
+.body_list{
+    display:inline;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 900;
+	text-align: center;
+}
+.anim {
+  height: 300px;
+  width: 500px;
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 .top_image {
   height: auto;
   width: 100%;
+}
+.top_anim {
+  height: 700px;
+  width: 2000px;
 }
 header {
 	text-align: center;
